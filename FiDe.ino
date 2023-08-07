@@ -24,9 +24,9 @@ String Temp;
 * definisikan nomor WA dan apiKey yang terdaftar pada WhatsApp Bot
 */
 const char* ssid = "Galaxy";
-const char* password = "qhng4493";
-const String phoneNumber = "+6285848107061";
-const String apiKey= "1405035";
+const char* password = "qhng4xxx";
+const String phoneNumber = "+62858481xxxxx";
+const String apiKey= "1405xxx";
 
 OneWire oneWire(temp_sensor);
 DallasTemperature sensors(&oneWire);
